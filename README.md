@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Profile card component
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). 
@@ -37,3 +38,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Website - [Vaibhav Kumar Singh](https://vaib.carrd.co)
 - Frontend Mentor - [@Vaib215](https://www.frontendmentor.io/profile/Vaib215)
 - Twitter - [@ThisIs_Vaib](https://www.twitter.com/ThisIs_Vaib)
+=======
+hvjhvh
+>>>>>>> 3cbfa9dc7cab1d2e6318e88a5d32abc0db9b3670
